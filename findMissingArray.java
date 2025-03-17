@@ -1,5 +1,3 @@
-package com.java.practice;
-
 public class findMissingArray {
 
 	public void findMissingNumber(int arr[]) {
